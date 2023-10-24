@@ -157,6 +157,11 @@ label {
   font-size: 20px;
 }
 
+legend {
+  font-size: 30px;
+  margin-left: 300px;
+}
+
 /*footer*/
 footer {
   width: 100%;
