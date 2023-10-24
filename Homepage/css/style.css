@@ -89,6 +89,11 @@ h2 {
 .paragraph1 {
   display: flex;
   align-items: center;
+  line-height: 50px;
+  letter-spacing: 1px;
+  text-indent: 1px;
+  word-spacing: 1px;
+  text-transform: capitalize;
 }
 .paragraph1 section {
   padding-right: 50px;
@@ -99,6 +104,11 @@ h2 {
   display: flex;
   align-items: center;
   margin-top: 100px;
+  line-height: 50px;
+  letter-spacing: 1px;
+  text-indent: 1px;
+  word-spacing: 1px;
+  text-transform: capitalize;
 }
 
 .paragraph2 section {
