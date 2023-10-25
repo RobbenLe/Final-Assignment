@@ -112,6 +112,14 @@ figure {
   font-size: 20px;
 }
 
+.first-link:hover {
+  color: blue;
+}
+
+.first-link:active {
+  color: aqua;
+}
+
 /* Second Section*/
 
 .second-artical {
@@ -161,6 +169,14 @@ figure {
   font-weight: 200px;
   font-size: 20px;
 }
+
+.second-link:hover {
+  color: blue;
+}
+
+.second-link:active {
+  color: aqua;
+}
 /*Third Section*/
 
 .third-paragraph {
@@ -208,6 +224,14 @@ figure {
   margin-top: 10px;
   font-weight: 200px;
   font-size: 20px;
+}
+
+.third-link:hover {
+  color: blue;
+}
+
+.third-link:active {
+  color: aqua;
 }
 
 /*footer*/
