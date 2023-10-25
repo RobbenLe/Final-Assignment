@@ -1,7 +1,6 @@
 * {
   margin: 0px;
   padding: 0px;
-  font-family: "Trirong", serif;
 }
 
 header {
@@ -61,10 +60,12 @@ nav li {
   font-size: 50px;
   color: rgb(45, 45, 98);
   margin-top: 50px;
+  font-family: "Trirong", serif;
 }
 
 .p1 {
   font-size: 25px;
+  font-family: "Trirong", serif;
 }
 
 /*Second-section*/
@@ -87,6 +88,7 @@ nav li {
   border-color: black;
   border-style: solid;
   border-width: 5px;
+  font-family: "Trirong", serif;
 }
 
 .radiobutton {
