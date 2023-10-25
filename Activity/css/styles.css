@@ -117,6 +117,10 @@ figure {
   color: blue;
 }
 
+.first-link:active {
+  color: aqua;
+}
+
 /* Second Section*/
 
 .second-artical {
@@ -169,6 +173,10 @@ figure {
 
 .second-link:hover {
   color: blue;
+}
+
+.second-link:active {
+  color: aqua;
 }
 /*Third Section*/
 
@@ -223,6 +231,10 @@ figure {
   color: blue;
 }
 
+.third-link:active {
+  color: aqua;
+}
+
 /*Section 4*/
 .fourth-article {
   width: 100%;
@@ -272,6 +284,10 @@ figure {
 
 .fourth-link:hover {
   color: blue;
+}
+
+.fourth-link:active {
+  color: aqua;
 }
 /*section */
 
