@@ -113,6 +113,14 @@ figure {
   font-size: 20px;
 }
 
+.first-link:hover {
+  color: blue;
+}
+
+.first-link:active {
+  color: aqua;
+}
+
 /* Second Section*/
 
 .second-artical {
@@ -161,6 +169,14 @@ figure {
   margin-top: 10px;
   font-weight: 200px;
   font-size: 20px;
+}
+
+.second-link:hover {
+  color: blue;
+}
+
+.second-link:active {
+  color: aqua;
 }
 /*Third Section*/
 
@@ -211,6 +227,14 @@ figure {
   font-size: 20px;
 }
 
+.third-link:hover {
+  color: blue;
+}
+
+.third-link:active {
+  color: aqua;
+}
+
 /*Section 4*/
 .fourth-article {
   width: 100%;
@@ -257,6 +281,13 @@ figure {
   font-size: 20px;
 }
 
+.fourth-link:hover {
+  color: blue;
+}
+
+.fourth-link:active {
+  color: aqua;
+}
 /*section */
 
 .fifth-article {
@@ -306,6 +337,13 @@ figure {
   font-size: 20px;
 }
 
+.fifth-link:hover {
+  color: blue;
+}
+
+.fifth-link:active {
+  color: aqua;
+}
 /*footer*/
 footer {
   width: 100%;
