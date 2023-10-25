@@ -113,6 +113,10 @@ figure {
   font-size: 20px;
 }
 
+.first-link:hover {
+  color: blue;
+}
+
 /* Second Section*/
 
 .second-artical {
@@ -161,6 +165,10 @@ figure {
   margin-top: 10px;
   font-weight: 200px;
   font-size: 20px;
+}
+
+.second-link:hover {
+  color: blue;
 }
 /*Third Section*/
 
@@ -211,6 +219,10 @@ figure {
   font-size: 20px;
 }
 
+.third-link:hover {
+  color: blue;
+}
+
 /*Section 4*/
 .fourth-article {
   width: 100%;
@@ -258,6 +270,9 @@ figure {
   margin-left: 150px;
 }
 
+.fourth-link:hover {
+  color: blue;
+}
 /*section */
 
 .fifth-article {
@@ -305,6 +320,14 @@ figure {
   margin-top: 10px;
   font-weight: 200px;
   font-size: 20px;
+}
+
+.fifth-link:hover {
+  color: blue;
+}
+
+.fifth-link:active {
+  color: aqua;
 }
 
 /*footer*/
