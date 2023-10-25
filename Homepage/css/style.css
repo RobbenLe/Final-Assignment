@@ -85,6 +85,7 @@ nav a {
 
 h2 {
   text-align: center;
+  color: brown;
 }
 
 .paragraph1 {
@@ -95,6 +96,7 @@ h2 {
   text-indent: 1px;
   word-spacing: 1px;
   text-transform: capitalize;
+  margin-top: 30px;
 }
 .paragraph1 section {
   padding-right: 50px;
