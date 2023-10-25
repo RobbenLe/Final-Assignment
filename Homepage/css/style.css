@@ -14,7 +14,8 @@ header {
   z-index: 9999;
 }
 
-.My-logo {
+.My-logo,
+.logo {
   width: auto;
   height: 90%;
   padding-left: 10px;
@@ -132,13 +133,6 @@ footer {
   justify-content: space-between;
   align-items: center;
   margin-top: 200px;
-}
-
-.logo {
-  width: auto;
-  height: 90%;
-  padding-left: 10px;
-  padding-top: 5px;
 }
 
 ul li {
